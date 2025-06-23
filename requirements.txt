@@ -1,0 +1,6 @@
+asyncio
+playwright
+chromadb
+numpy
+scikit-learn
+google-generativeai
